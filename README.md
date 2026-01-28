@@ -1,4 +1,4 @@
-##  create virtual enviroment
+##  Create Virtual Enviroment
 '''
 conda create -p env python=3.13 -y 
 '''
@@ -9,6 +9,7 @@ soure active ./env
 '''
 git init 
 '''
+
 '''
 git commit -m "first commit"
 '''
