@@ -21,8 +21,8 @@
   "timestamp": 1763132238000,
   "size": 1178167,
   "requested_spec": "None",
-  "package_tarball_full_path": "C:\\Users\\saai\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0.conda",
-  "extracted_package_dir": "C:\\Users\\saai\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0",
+  "package_tarball_full_path": "C:\\ProgramData\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0.conda",
+  "extracted_package_dir": "C:\\ProgramData\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0",
   "files": [
     "Lib/site-packages/pip-25.3.dist-info/INSTALLER",
     "Lib/site-packages/pip-25.3.dist-info/METADATA",
@@ -5817,7 +5817,7 @@
     ]
   },
   "link": {
-    "source": "C:\\Users\\saai\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0",
+    "source": "C:\\ProgramData\\anaconda3\\pkgs\\pip-25.3-pyhc872135_0",
     "type": 1
   }
 }

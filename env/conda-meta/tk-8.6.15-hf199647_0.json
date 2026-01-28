@@ -20,8 +20,8 @@
   "timestamp": 1755244051000,
   "size": 3700492,
   "requested_spec": "None",
-  "package_tarball_full_path": "C:\\Users\\saai\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0.conda",
-  "extracted_package_dir": "C:\\Users\\saai\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0",
+  "package_tarball_full_path": "C:\\ProgramData\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0.conda",
+  "extracted_package_dir": "C:\\ProgramData\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0",
   "files": [
     "Library/bin/tcl86t.dll",
     "Library/bin/tclsh.exe",
@@ -8602,7 +8602,7 @@
     ]
   },
   "link": {
-    "source": "C:\\Users\\saai\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0",
+    "source": "C:\\ProgramData\\anaconda3\\pkgs\\tk-8.6.15-hf199647_0",
     "type": 1
   }
 }

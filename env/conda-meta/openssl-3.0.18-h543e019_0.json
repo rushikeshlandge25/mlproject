@@ -20,8 +20,8 @@
   "timestamp": 1759490461000,
   "size": 7170496,
   "requested_spec": "None",
-  "package_tarball_full_path": "C:\\Users\\saai\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0.conda",
-  "extracted_package_dir": "C:\\Users\\saai\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0",
+  "package_tarball_full_path": "C:\\ProgramData\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0.conda",
+  "extracted_package_dir": "C:\\ProgramData\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0",
   "files": [
     "Library/bin/c_rehash.pl",
     "Library/bin/libcrypto-3-x64.dll",
@@ -1342,7 +1342,7 @@
     ]
   },
   "link": {
-    "source": "C:\\Users\\saai\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0",
+    "source": "C:\\ProgramData\\anaconda3\\pkgs\\openssl-3.0.18-h543e019_0",
     "type": 1
   }
 }
