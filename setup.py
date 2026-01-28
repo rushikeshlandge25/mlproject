@@ -29,3 +29,14 @@ setup(
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
 )
+'''
+pip install -e .
+        ↓
+pip copies project to temp folder
+        ↓
+setup.py runs
+        ↓
+setup.py finds its own location using __file__
+        ↓
+requirements.txt loaded correctly
+'''
